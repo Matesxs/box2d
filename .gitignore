@@ -7,3 +7,5 @@ out/
 .vs/
 bin/
 bin-int/
+*.vcxproj
+*.vcxproj.filters
